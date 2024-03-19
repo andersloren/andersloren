@@ -1,5 +1,5 @@
 <h1 align="center" class="Merriweather">Welcome to Liebniz's coding space</h1>
-<table border="0">
+<table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td valign="top"><div style="display: flex; flex-direction: column; align-items: left; justify-content: center"> 
     <div style="">👋 My name is Anders and I love programming </div>
