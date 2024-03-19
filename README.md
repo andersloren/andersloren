@@ -2,7 +2,7 @@
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td valign="top"><div style="display: flex; flex-direction: column; align-items: left; justify-content: center"> 
-    <div style="">👋 My name is Anders and I love programming </div>
+    <div style="">👋 My name is Anders</div>
     <br>
     <div>👨‍🎓 Right now, I am doing an internship at <a href="sprinta.se">Sprinta</a></div>
     <br>
