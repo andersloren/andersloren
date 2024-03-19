@@ -1,11 +1,7 @@
 <h1 align="center" class="Merriweather">Welcome to Liebniz's coding space</h1>
 
 <div style="display: flex">
-  <div 
-  style="display: flex; 
-  flex-direction: column; 
-  align-items: left; 
-  justify-content: center"> 
+  <div style="display: flex; flex-direction: column; align-items: left; justify-content: center"> 
     <div style="">👋 My name is Anders and I love programming </div>
     <br>
     <div>👨‍🎓 Right now, I am doing an internship at <a href="sprinta.se">Sprinta</a></div>
