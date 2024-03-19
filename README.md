@@ -1,5 +1,3 @@
 <p align="center">
-  <img src="./static/.webp" alt="under construction" width="300" style="display: block; margin-left: auto; margin-right: auto" />
+  <img src="./static/under-construction.webp" alt="Java React banner" width="300" style="display: block; margin-left: auto; margin-right: auto" />
 </p>
-
-<div>Welcome to my page</div>
