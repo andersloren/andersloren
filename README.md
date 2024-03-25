@@ -16,6 +16,6 @@
       <li type="i"> MySQL
     </ul>
   </div></td>
-    <td valign="top"><img src="./static/coffee-atom-banner.png" alt="Java React banner" width="auto" style="display: block; margin-left: auto; margin-right: auto" /></td>
+    <td valign="top"><picture><img src="./static/coffee-atom-banner.png" alt="Java React banner" width="auto" style="display: block; margin-left: auto; margin-right: auto" /></picture></td>
   </tr>
 </table>
