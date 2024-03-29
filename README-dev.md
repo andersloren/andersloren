@@ -1,6 +1,8 @@
 <h1 align="center" class="Merriweather">Welcome to Liebniz's coding space</h1>
 
-<div style="display: flex">
+  <img src="./static/coffee-atom-banner.png" alt="Java React banner" width="50%" style="display: block; margin-left: auto; margin-right: auto" />
+
+<div style="display: flex; margin-top: 30px">
   <div 
   style="display: flex; 
   flex-direction: column; 
@@ -22,5 +24,4 @@
       <li type="i"> MySQL
     </ul>
     </div>
-  <img src="./static/coffee-atom-banner.png" alt="Java React banner" width="50%" style="display: block; margin-left: auto; margin-right: auto" />
 </div>
