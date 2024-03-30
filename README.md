@@ -4,4 +4,4 @@
 
 👋 My name is Anders, I am a Java and React enthusiast from Sweden.
 
-<tangent> Just wrapping up my bachelor’s in industrial economics at the University of Borås. Can’t wait to have that degree in my hands by Q1 2025! </tangent>
+<div style="background-color:green> Just wrapping up my bachelor’s in industrial economics at the University of Borås. Can’t wait to have that degree in my hands by Q1 2025! </div>
